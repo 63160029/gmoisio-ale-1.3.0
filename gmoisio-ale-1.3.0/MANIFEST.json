@@ -1,0 +1,37 @@
+{
+ "collection_info": {
+  "namespace": "gmoisio",
+  "name": "ale",
+  "version": "1.3.0",
+  "authors": [
+   "Gilbert MOISIO <gmoisio@gmail.com>"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "ale",
+   "aos",
+   "networking",
+   "omniswitch"
+  ],
+  "description": "An Ansible collection to access Alcatel-Lucent Enterprise OmniSwitch devices",
+  "license": [
+   "CC-BY-NC-ND-4.0"
+  ],
+  "license_file": null,
+  "dependencies": {
+   "community.general": ">=3.1.0"
+  },
+  "repository": "https://github.com/gmoisio/gmoisio.ale",
+  "documentation": "https://github.com/gmoisio/gmoisio.ale/tree/main/docs",
+  "homepage": "https://github.com/gmoisio/gmoisio.ale",
+  "issues": "https://github.com/gmoisio/gmoisio.ale/issues"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "e7c8abe6e37932953be5447c176cf7d3207d82f7694d1af116c21d001a13ea21",
+  "format": 1
+ },
+ "format": 1
+}
